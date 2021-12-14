@@ -1,0 +1,5 @@
+.venv/
+
+zytescraper/zytescraper/__pycache__/
+
+zytescraper/zytescraper/spiders/__pycache__/
